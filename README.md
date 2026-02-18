@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Deepansh-Umar/leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Deepansh-Umar/leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Deepansh-Umar/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Deepansh-Umar/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Deepansh-Umar/leetcode/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/Deepansh-Umar/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Deepansh-Umar/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Deepansh-Umar/leetcode/tree/master/0401-binary-watch) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Deepansh-Umar/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
