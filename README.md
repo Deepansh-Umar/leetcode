@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Deepansh-Umar/leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Deepansh-Umar/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Deepansh-Umar/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Deepansh-Umar/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Deepansh-Umar/leetcode/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepansh-Umar/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Deepansh-Umar/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Deepansh-Umar/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
