@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Deepansh-Umar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Deepansh-Umar/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepansh-Umar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Deepansh-Umar/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deepansh-Umar/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Deepansh-Umar/leetcode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
