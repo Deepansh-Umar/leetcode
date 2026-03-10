@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Deepansh-Umar/leetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Deepansh-Umar/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Deepansh-Umar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0136-single-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Deepansh-Umar/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Deepansh-Umar/leetcode/tree/master/0704-binary-search) |
 ## Dynamic Programming
