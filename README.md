@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Deepansh-Umar/leetcode/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Deepansh-Umar/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Deepansh-Umar/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/Deepansh-Umar/leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Simulation
 |  |
 | ------- |
