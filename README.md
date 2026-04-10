@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Deepansh-Umar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Deepansh-Umar/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deepansh-Umar/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Deepansh-Umar/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Deepansh-Umar/leetcode/tree/master/0067-add-binary) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepansh-Umar/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Deepansh-Umar/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Deepansh-Umar/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Deepansh-Umar/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
