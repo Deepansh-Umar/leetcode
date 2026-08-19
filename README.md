@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0268-missing-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepansh-Umar/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0704-binary-search](https://github.com/Deepansh-Umar/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Deepansh-Umar/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepansh-Umar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Deepansh-Umar/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Deepansh-Umar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Deepansh-Umar/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Deepansh-Umar/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Deepansh-Umar/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
