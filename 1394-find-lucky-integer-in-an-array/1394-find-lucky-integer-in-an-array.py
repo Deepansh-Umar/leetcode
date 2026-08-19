@@ -2,11 +2,9 @@ from collections import Counter
 class Solution:
     def findLucky(self, arr: List[int]) -> int:
         freq = Counter(arr)
-        l= []
+        m= -1
         for i in freq:
             if freq[i]==i:
-                l.append(i)
+                m = max(m,i)
 
-        if not l:
-            return -1
-        return max(l)
+        return m
