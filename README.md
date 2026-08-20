@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Deepansh-Umar/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Deepansh-Umar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepansh-Umar/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0704-binary-search](https://github.com/Deepansh-Umar/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Deepansh-Umar/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Deepansh-Umar/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepansh-Umar/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Deepansh-Umar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepansh-Umar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Deepansh-Umar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deepansh-Umar/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Deepansh-Umar/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Deepansh-Umar/leetcode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Deepansh-Umar/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Deepansh-Umar/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepansh-Umar/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Deepansh-Umar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Deepansh-Umar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Deepansh-Umar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepansh-Umar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Deepansh-Umar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Greedy
@@ -198,4 +203,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepansh-Umar/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepansh-Umar/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepansh-Umar/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepansh-Umar/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
