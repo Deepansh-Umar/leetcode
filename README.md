@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0567-permutation-in-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deepansh-Umar/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sorting
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Deepansh-Umar/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0567-permutation-in-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepansh-Umar/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Bit Manipulation
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Deepansh-Umar/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepansh-Umar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Deepansh-Umar/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepansh-Umar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Deepansh-Umar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Deepansh-Umar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0567-permutation-in-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Deepansh-Umar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Deepansh-Umar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
