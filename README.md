@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Deepansh-Umar/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Deepansh-Umar/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0268-missing-number) |
+| [1927-sum-game](https://github.com/Deepansh-Umar/leetcode/tree/master/1927-sum-game) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0567-permutation-in-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepansh-Umar/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1927-sum-game](https://github.com/Deepansh-Umar/leetcode/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepansh-Umar/leetcode/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/Deepansh-Umar/leetcode/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepansh-Umar/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Tree
 |  |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepansh-Umar/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Deepansh-Umar/leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
