@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Deepansh-Umar/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Deepansh-Umar/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Deepansh-Umar/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Deepansh-Umar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepansh-Umar/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0704-binary-search](https://github.com/Deepansh-Umar/leetcode/tree/master/0704-binary-search) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Deepansh-Umar/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Deepansh-Umar/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/Deepansh-Umar/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepansh-Umar/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Deepansh-Umar/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Game Theory
 |  |
 | ------- |
