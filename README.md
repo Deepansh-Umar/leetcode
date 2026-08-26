@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Deepansh-Umar/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepansh-Umar/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deepansh-Umar/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Deepansh-Umar/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0567-permutation-in-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepansh-Umar/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1927-sum-game](https://github.com/Deepansh-Umar/leetcode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Deepansh-Umar/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
 |  |
 | ------- |
