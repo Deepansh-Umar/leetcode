@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Deepansh-Umar/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Deepansh-Umar/leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Deepansh-Umar/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Deepansh-Umar/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Deepansh-Umar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepansh-Umar/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Deepansh-Umar/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Deepansh-Umar/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Deepansh-Umar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Deepansh-Umar/leetcode/tree/master/0072-edit-distance) |
+| [0322-coin-change](https://github.com/Deepansh-Umar/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Deepansh-Umar/leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepansh-Umar/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Matrix
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepansh-Umar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/Deepansh-Umar/leetcode/tree/master/0322-coin-change) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Deepansh-Umar/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
@@ -307,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Deepansh-Umar/leetcode/tree/master/0523-continuous-subarray-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Deepansh-Umar/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Deepansh-Umar/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
