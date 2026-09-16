@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepansh-Umar/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/Deepansh-Umar/leetcode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Deepansh-Umar/leetcode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/Deepansh-Umar/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepansh-Umar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepansh-Umar/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Deepansh-Umar/leetcode/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/Deepansh-Umar/leetcode/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/Deepansh-Umar/leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepansh-Umar/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Matrix
