@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepansh-Umar/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Deepansh-Umar/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Deepansh-Umar/leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Deepansh-Umar/leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Deepansh-Umar/leetcode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/Deepansh-Umar/leetcode/tree/master/0242-valid-anagram) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Deepansh-Umar/leetcode/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/Deepansh-Umar/leetcode/tree/master/0401-binary-watch) |
 ## Recursion
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepansh-Umar/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Deepansh-Umar/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepansh-Umar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Deepansh-Umar/leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Deepansh-Umar/leetcode/tree/master/0198-house-robber) |
@@ -350,4 +353,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepansh-Umar/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Deepansh-Umar/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
