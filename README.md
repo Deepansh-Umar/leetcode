@@ -257,22 +257,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepansh-Umar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Deepansh-Umar/leetcode/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Deepansh-Umar/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepansh-Umar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Deepansh-Umar/leetcode/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Deepansh-Umar/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepansh-Umar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Deepansh-Umar/leetcode/tree/master/0322-coin-change) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Deepansh-Umar/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Deepansh-Umar/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepansh-Umar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Deepansh-Umar/leetcode/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Deepansh-Umar/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Manacher
 |  |
 | ------- |
